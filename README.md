@@ -45,3 +45,4 @@ Time - Verdão
 
 Metaforas conhecidas - Tudo que sobre desse, Nunca confunda a grande obra do mestre picasso com a .... de aço do mestre de obra
 
+
