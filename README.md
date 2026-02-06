@@ -1,7 +1,4 @@
-## Eu 🔥🔥🔥
-
-
-**davizinplayhard/davizinplayhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eu 🔥🔥🔥
 
 Estado - Acho que solido,Sem passagem pela policia,Solteiro e Sem filhos
 
@@ -11,11 +8,14 @@ Estado - Acho que solido,Sem passagem pela policia,Solteiro e Sem filhos
 
 Profissão - Desenvolverdor de Botão e no tempo livre levanto laje
 
-
+![nerd-emoji](https://github.com/user-attachments/assets/f2033c1a-bb6a-4b26-8e38-6f18f67e180f)
 
 
 
 Salario atual - Apenas o direito de ouvir e supostamente aprender (Sobra nada pro BETA)
+
+![kratos](https://github.com/user-attachments/assets/5669a94c-eb69-462c-bcca-1600b5bb15de)
+
 
 Hobbies - Fazer protesto no roblox,Melhor Jogador de Clash royale e Criar botão e Levantar laje
 
