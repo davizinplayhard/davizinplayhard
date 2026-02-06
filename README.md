@@ -29,7 +29,7 @@ Salario Desejado - 50k a 100k com dinhereito a comer de graça
 
 Time - Verdão
 
-![Palmeiras](<img width="232" height="217" alt="image" src="https://github.com/user-attachments/assets/43b3be1b-0fdc-47c4-ad26-c2b8da2ee27d" />
+<img width="232" height="217" alt="image" src="https://github.com/user-attachments/assets/43b3be1b-0fdc-47c4-ad26-c2b8da2ee27d" />
 
 
 
