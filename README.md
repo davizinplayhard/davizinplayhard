@@ -1,6 +1,6 @@
 # Eu 🔥🔥🔥
 
-Estado - Acho que solido,Sem passagem pela policia,Solteiro e Sem filhos
+Estado Civil/Spirito/Quimico - Acho que solido,Sem passagem pela policia,Solteiro e Sem filhos
 
 <img width="201" height="251" alt="image" src="https://github.com/user-attachments/assets/e5540194-474b-49ea-9956-1c8a81b88e33" />
 
